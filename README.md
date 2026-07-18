@@ -1,4 +1,4 @@
-# Project: Linux & Docker Infrastructure Automation
+# OLD Short Project: Linux & Docker Infrastructure Automation
 
 ## Overview
 A core automation project focusing on system task scheduling and containerized web delivery. This project demonstrates foundational DevOps skills in managing Linux environments and deploying immutable Nginx web servers.
